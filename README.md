@@ -13,3 +13,7 @@ You need to have these installed:
 
 1. **Clone the project**:
 git clone https://github.com/your-username/simple-crud-api.git
+2. **Go to the project folder**:
+cd simple-crud-api
+3. **Install dependencies**:
+   npm install
